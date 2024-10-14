@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Demo website (built using Jekyll)
 
 # Your name to show in the footer
-author: Some Person
+author: Kamal Raj
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://kamalraj21.github.io/kamalraj.github.io/"
 
 ################
 # --- Logo --- #
