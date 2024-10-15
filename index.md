@@ -10,7 +10,7 @@ Step into a world where imagination meets canvas. As an artist, I strive to capt
 
 ## Featured Work
 
-![Featured Artwork](/assets/img/featured-artwork.jpg)
+![Featured Artwork](/assets/img/IMG_2973.png)
 
 "Ethereal Dreams" - Oil on Canvas, 2023
 
