@@ -11,7 +11,7 @@ Welcome to my portfolio. Here, you'll find a curated selection of my artwork, sh
 ## Oil Paintings
 
 ### "Ethereal Dreams"
-![Ethereal Dreams](/assets/img/ethereal-dreams.jpg)
+![Ethereal Dreams](/assets/img/83FE35CE-EF7A-4897-BF97-DDE39C80FB5F.jpeg)
 Oil on Canvas, 48" x 36", 2023
 
 A dreamlike landscape merging reality and imagination, exploring themes of hope and tranquility.
