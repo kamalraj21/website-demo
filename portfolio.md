@@ -17,7 +17,7 @@ Oil on Canvas, 48" x 36", 2023
 A dreamlike landscape merging reality and imagination, exploring themes of hope and tranquility.
 
 ### "Urban Rhythm"
-![Urban Rhythm](/assets/img/urban-rhythm.jpg)
+![Urban Rhythm](/assets/img/IMG_2979.jpeg)
 Oil on Canvas, 30" x 40", 2022
 
 An abstract interpretation of city life, capturing the energy and movement of urban environments.
